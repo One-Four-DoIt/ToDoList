@@ -12,13 +12,13 @@
 - **김형준(201910949 컴퓨터과학과)**
 
 ### 백엔드
-
-| 양원준  | https://github.com/hyoungj00n |
+| 이름 | 깃허브 주소 |
 | --- | --- |
+| 양원준  | https://github.com/hyoungj00n |
 | 김형준 | https://github.com/ywj9811 |
 | 이승주 | https://github.com/winSomeJoo |
 
 ### 프론트엔드
-
-| 이윤석 | https://github.com/simplex3510 |
+| 이름 | 깃허브 주소 |
 | --- | --- |
+| 이윤석 | https://github.com/simplex3510 |
