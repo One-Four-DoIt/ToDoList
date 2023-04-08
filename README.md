@@ -12,8 +12,8 @@
 ### 백엔드
 | 이름 | 깃허브 주소 |
 | --- | --- |
-| 양원준  | https://github.com/hyoungj00n |
-| 김형준 | https://github.com/ywj9811 |
+| 양원준 | https://github.com/ywj9811 |
+| 김형준 | https://github.com/hyoungj00n |
 | 이승주 | https://github.com/winSomeJoo |
 
 ### 프론트엔드
